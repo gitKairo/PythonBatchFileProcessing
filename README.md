@@ -2,8 +2,7 @@
 
 ## Overview
 
-This Python project offers a graphical interface to automate common file operations, including batch-renaming files and converting image formats. Designed to simplify everyday tasks, this tool is especially useful for those looking to get into DevOps or system administration.
-
+This Python project offers a graphical interface to automate common file operations, including batch-renaming files and converting image formats. Designed to simplify everyday tasks.
 ## Features
 
 ### Batch File Renaming
